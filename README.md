@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @ZhiweiXiao98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ZhiweiXiao98/ZhiweiXiao98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 做设计，也做开发。
+- 河北工程大学建筑学毕业，
+- 曾任职于北京汉华建筑设计有限公司。
+- 如今在久胜科技做 AI 开发工具。
